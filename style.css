@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+body {
+  background-color: rgb(224, 213, 213);
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 50px;
+}
+#judul {
+  letter-spacing: 8px;
+}
+
+.paragraf1 {
+  color: dodgerblue;
+  text-indent: 15px;
+  font-family: "Press Start 2P", cursive;
+}
+
+.paragraf2 {
+  color: green;
+}
